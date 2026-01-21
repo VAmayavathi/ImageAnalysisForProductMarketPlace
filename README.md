@@ -28,7 +28,7 @@ The application integrates **Deep Learning models (EfficientNetB0)** for accurat
 
 ## Demo / Output
 A **demo video** showing the image analysis workflow and output is available in the Fiverr gig:  
-[View Demo on Fiverr]([https://www.fiverr.com/username/your-gig-link](https://www.fiverr.com/vamayavathi/develop-custom-image-analysis-applications-for-product-marketplaces-using))  
+[View Demo on Fiverr](https://www.fiverr.com/vamayavathi/develop-custom-image-analysis-applications-for-product-marketplaces-using)
 
 > Note: No live demo URL is provided currently. You can see the working prototype via the demo video.
 
